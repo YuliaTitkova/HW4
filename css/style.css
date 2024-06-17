@@ -1,0 +1,45 @@
+h2 {
+    color: red;
+    text-decoration: underline;
+}
+
+.header_three {
+    color: purple;
+    text-align: center;
+}
+
+.header_example {
+    color: yellow;
+    text-align: right;
+}
+
+#second-h3 {
+    background-color: aquamarine;
+}
+
+input[type="text"] {
+    border: 5px solid blue;
+    padding: 5px;
+}
+
+div > p {
+    color: green;
+}
+
+section article {
+    color: firebrick;
+}
+
+h6 + p {
+    background-color: yellowgreen;
+}
+
+span ~ p {
+    background-color: peachpuff;
+}
+
+.main_header,
+footer {
+    background: coral;
+    color: white;
+}
